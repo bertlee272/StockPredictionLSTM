@@ -41,7 +41,7 @@
 ![alt text](Loss.png "Loss")
 
 
-##References: 
+## References: 
 * [Youtube](https://www.youtube.com/watch?v=8HyCNIVRbSU&)
 * [StackAbuse](https://stackabuse.com/time-series-prediction-using-lstm-with-pytorch-in-python/)
 * [Kaggle](https://www.kaggle.com/taronzakaryan/stock-prediction-lstm-using-pytorch)
